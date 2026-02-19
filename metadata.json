@@ -1,0 +1,5 @@
+{
+  "name": "工廠安全中心 (Factory SafetyHub)",
+  "description": "符合香港法例第59章要求的工廠安全巡查管理系統。具備 AI 風險評估及自動化週報功能，專為安全主任及經理設計。",
+  "requestFramePermissions": []
+}
